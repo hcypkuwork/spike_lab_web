@@ -5,6 +5,6 @@
 
   # hcypkuwork's Website
 
-  Visit **[hcypkuwork.github.io/spike_lab_web](https://hcypkuwork.github.io/spike_lab_web)** 🚀
+  Visit **[spikevision.pku.edu.cn](http://spikevision.pku.edu.cn)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
