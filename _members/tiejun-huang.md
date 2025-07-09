@@ -1,7 +1,7 @@
 ---
 name: Tiejun Huang
 position: Professor
-image: images/team_image/Tiejun Huang.jpeg
+image: images/team_image/tiejun-huang.jpeg
 role: principal-investigator
 education:
   - "Institute of Image Recognition and Artificial Intelligence, Huazhong University of Science and Technology (now Huazhong University of Science and Technology): Doctor of Pattern Recognition and Intelligent Systems (1995-1998)"
@@ -13,6 +13,8 @@ affiliation:
   - Executive Deputy Director of the National Engineering Research Center for Video and Visual Technology
 # aliases:
 #   - Tiejun H
+brief-position: Group Director
+brief-desc: Professor
 links:
   home-page: https://idm.pku.edu.cn/tjhuang
   email: tjhuang@pku.edu.cn

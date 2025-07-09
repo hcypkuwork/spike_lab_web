@@ -1,7 +1,7 @@
 ---
 name: Zhaofei Yu
 position: Professor
-image: images/team_image/Zhaofei Yu.jpeg
+image: images/team_image/zhaofei-yu.jpeg
 role: assistant-professor
 education:
   - "Tsinghua University: Doctor of Engineering (2012-2017)"
@@ -11,6 +11,8 @@ affiliation:
   - Assistant Professor of the School of Artificial Intelligence at Peking University
 # aliases:
 #   - Zhaofei Y
+brief-position: Lab Leader
+brief-desc: Professor
 links:
   home-page: https://yuzhaofei.github.io
   email: yuzf12@pku.edu.cn

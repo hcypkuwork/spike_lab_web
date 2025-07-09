@@ -47,6 +47,8 @@ His research addresses challenges at the intersection of transportation technolo
  &nbsp;&nbsp;&nbsp;
  <a href="/members/tiejun-huang.html">(more)</a>
 
+{% include section.html %}  
+<!-- 上方添加一个段落，观察是否有效 -->
 
 <h1><a style="text-decoration: none; color: inherit;" href="/members/zhaofei-yu.html">Professor</a></h1>
 
@@ -93,7 +95,7 @@ His research addresses challenges at the intersection of transportation technolo
 # Team
 
 {% include list.html data="members" component="portrait" filters="role: senior" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|senior$|alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!principal-investigator$|assistant-professor$|alumni$)" %}
 
 {% include section.html %}
 

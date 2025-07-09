@@ -1,7 +1,7 @@
 ---
 name: Chunyu He
 position: PhD Student
-image: images/team_image/Chunyu He.jpeg
+image: images/team_image/chunyu-he.jpeg
 role: phd
 education: 
   - "University of Science and Technology of China: Bachelor of Computer Science and Technology(2021-2025)"
